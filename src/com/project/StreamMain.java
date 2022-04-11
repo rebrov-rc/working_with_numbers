@@ -1,4 +1,4 @@
-package stream;
+package com.project;
 
 
 import java.util.Comparator;
